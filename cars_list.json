@@ -1,0 +1,113 @@
+{
+    "cars": [
+      {"car_id": 0,
+        "car_brand": "Mercedes",
+        "model": "A 220",
+        "fuel_consumption": 3.8,
+        "Registration number": "CA2834KA",
+        "Price_per_hour": 20,
+        "Price_per_day": 120,
+        "Price_per_week": 500,
+        "Status": "Busy"
+      },
+      {
+        "car_id": 1,
+        "car_brand": "Mercedes",
+        "model": "AMG GT C",
+        "fuel_consumption": 7.5,
+        "Registration number": "CA2824IE",
+        "Price_per_hour": 80,
+        "Price_per_day": 700,
+        "Price_per_week": 2800,
+        "Status": "Busy"
+      },
+      {
+        "car_id": 2,
+        "car_brand": "Mercedes",
+        "model": "C 300",
+        "fuel_consumption": 5.2,
+        "Registration number": 0,
+        "Price_per_hour": 30,
+        "Price_per_day": 140,
+        "Price_per_week": 800,
+        "Status": "Free"
+      },
+      {
+        "car_id": 3,
+        "car_brand": "Mercedes",
+        "model": "CLA CLA250",
+        "fuel_consumption": 4.9,
+        "Registration number": "CB2824AT",
+        "Price_per_hour": 30,
+        "Price_per_day": 140,
+        "Price_per_week": 800,
+        "Status": "Free"
+      },
+      {
+        "car_id": 4,
+        "car_brand": "Mercedes",
+        "model": "CLS53",
+        "fuel_consumption": 4.4,
+        "Registration number": "B2824BB",
+        "Price_per_hour": 30,
+        "Price_per_day": 140,
+        "Price_per_week": 800,
+        "Status": "Free"
+      },
+      {
+        "car_id": 5,
+        "car_brand": "Mercedes",
+        "model": "CLS450",
+        "fuel_consumption": 8.1,
+        "Registration number": "B3524BB",
+        "Price_per_hour": 40,
+        "Price_per_day": 190,
+        "Price_per_week": 1100,
+        "Status": "Free"
+      },
+      {
+        "car_id": 6,
+        "car_brand": "Mercedes",
+        "model": "E 450",
+        "fuel_consumption": 10,
+        "Registration number": "PA3524NV",
+        "Price_per_hour": 40,
+        "Price_per_day": 190,
+        "Price_per_week": 1200,
+        "Status": "Free"
+      },
+      {
+        "car_id": 7,
+        "car_brand": "Mercedes",
+        "model": "AMG G63",
+        "fuel_consumption": 4.8,
+        "Registration number": "B3524BB",
+        "Price_per_hour": 60,
+        "Price_per_day": 350,
+        "Price_per_week": 3200,
+        "Status": "Free"
+      },
+      {
+        "car_id": 8,
+        "car_brand": "Mercedes",
+        "model": "E 450 4dr",
+        "fuel_consumption": 7.5,
+        "Registration number": "B3524MC",
+        "Price_per_hour": 40,
+        "Price_per_day": 190,
+        "Price_per_week": 1200,
+        "Status": "Free"
+      },
+      {
+        "car_id": 9,
+        "car_brand": "Mercedes",
+        "model": "E 380",
+        "fuel_consumption": 5,
+        "Registration number": "PB3524KC",
+        "Price_per_hour": 40,
+        "Price_per_day": 190,
+        "Price_per_week": 1200,
+        "Status": "Free"
+      }
+    ]
+  }
