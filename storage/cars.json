@@ -1,0 +1,103 @@
+{
+    "cars": [
+        {
+            "brand": "honda",
+            "model": "TRX90EX SPORTRAX",
+            "license_plate": "1111AA",
+            "consumption": 5,
+            "hour_rent": 10,
+            "day_rent": 20,
+            "week_rent": 40
+        },
+        {
+            "brand": "bmw",
+            "model": "X1",
+            "license_plate": "2222AA",
+            "consumption": 10,
+            "hour_rent": 50,
+            "day_rent": 60,
+            "week_rent": 120
+        },
+        {
+            "brand": "dodge",
+            "model": "RAM 4500",
+            "license_plate": "3333AA",
+            "consumption": 12,
+            "hour_rent": 45,
+            "day_rent": 66,
+            "week_rent": 111
+        },
+        {
+            "brand": "infiniti",
+            "model": "EX37",
+            "license_plate": "4444AA",
+            "consumption": 6,
+            "hour_rent": 15,
+            "day_rent": 44,
+            "week_rent": 65
+        },
+        {
+            "brand": "audi",
+            "model": "Q5",
+            "license_plate": "5555AA",
+            "consumption": 18,
+            "hour_rent": 44,
+            "day_rent": 55,
+            "week_rent": 77
+        },
+        {
+            "brand": "lamborghini",
+            "model": "GALLARDO",
+            "license_plate": "6666AA",
+            "consumption": 25,
+            "hour_rent": 100,
+            "day_rent": 250,
+            "week_rent": 400
+        },
+        {
+            "brand": "chevrolet",
+            "model": "SILVERADO 2500",
+            "license_plate": "7777AA",
+            "consumption": 15,
+            "hour_rent": 44,
+            "day_rent": 78,
+            "week_rent": 105
+        },
+        {
+            "brand": "trabant",
+            "model": "601",
+            "license_plate": "8888AA",
+            "consumption": 5,
+            "hour_rent": 2,
+            "day_rent": 4,
+            "week_rent": 10
+        },
+        {
+            "brand": "moskvitch",
+            "model": "420",
+            "license_plate": "9999AA",
+            "consumption": 3,
+            "hour_rent": 4,
+            "day_rent": 5,
+            "week_rent": 10
+        },
+        {
+            "brand": "peugeot",
+            "model": "206",
+            "license_plate": "1111BB",
+            "consumption": 6,
+            "hour_rent": 8,
+            "day_rent": 15,
+            "week_rent": 25
+        },
+        {
+            "brand": "nissan",
+            "model": "Almera",
+            "license_plate": "2222BB",
+            "consumption": 5,
+            "hour_rent": 9,
+            "day_rent": 13,
+            "week_rent": 21
+        }
+    ]
+}
